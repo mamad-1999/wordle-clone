@@ -1,4 +1,4 @@
-[
+const dictionary = [
   "aahed",
   "aalii",
   "aargh",
@@ -12972,3 +12972,6 @@
   "rural",
   "shave"
 ]
+
+
+export { dictionary }
